@@ -1,0 +1,30 @@
+OUTPUT: 
+
+Employees who have worked for 7 consecutive days: 
+Name: JEse CEreira Jr, Position ID: WFS000456
+Name: KeWWeMh Sparks, Position ID: WFS000101
+Name: JAaW CarXEs GAeWdia, Position ID: WFS000473
+Name: JaspreeM SiWgh, Position ID: WFS000424
+
+Employees who have worked for more than 14 hours in a single shift: 
+Name: JEse CEreira Jr, Position ID: WFS000456
+Name: ArWAXfE SaWchez, Position ID: WFS000577
+Name: PedrE REdrigAez, Position ID: WFS000336
+Name: CasiaWE MAake, Position ID: WFS000228
+Name: REWaXd Xee CcRAWWeX, Position ID: WFS000501
+Name: XeEWeX FeXix, Position ID: WFS000183
+Name: MyrreXX WiXXiaCs, Position ID: WFS000511
+Name: JAaW CarXEs GAeWdia, Position ID: WFS000473
+Name: ChrisMiaW S DeXgadiXXE REdarMe, Position ID: WFS000523
+Name: JEse ArevaXE, Position ID: WFS000491
+Name: AXfredE VasqAez, Position ID: WFS000391
+Name: JaspreeM SiWgh, Position ID: WFS000424
+Name: JeffersEW IWGEAa, Position ID: WFS000546
+Name: ECar JesAs AXcEcer, Position ID: WFS000541
+Name: JEvaW ErEpeza, Position ID: WFS000382
+Name: FeXipe Arias, Position ID: WFS000170
+Name: XaCar Xee, Position ID: WFS000200
+
+Employees who have worked for less than 10 hours but more than 1 hour between shifts: 
+Name: WiXXiaC Ha MraW, Position ID: WFS000345
+Name: XaCar Xee, Position ID: WFS000200
